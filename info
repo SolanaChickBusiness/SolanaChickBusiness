@@ -4,3 +4,8 @@ candyMachineAddress":"GRLu2BECihtWKSjkjd2qM9XRWfXVDftgi1yC17XyVKdS",
 config":"9jKNhQMLivzht31ucC8Ynz68uSUibo99kwLpKQTnHTin
 pmFPh361rbQiLANocejPiSvQyNtfckrijqQPLw2fDi5
 yarn start
+
+git add .
+git commit -am "test"
+git push 
+npm run deploy
