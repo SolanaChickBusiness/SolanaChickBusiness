@@ -176,7 +176,8 @@ const Home = (props: HomeProps) => {
 
       {wallet && <p>Total Supply: {itemsAvailable}</p>}
 
-      {wallet && <p>Price: 0,14 SOL + fee 0,000005 SOL </p>}
+      {wallet && <p>Price: 0.14 SOL</p>}
+      {wallet && <p>+fee 0.000005 SOL</p>}
 
       <MintContainer>
         {!wallet ? (
