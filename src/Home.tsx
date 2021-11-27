@@ -180,7 +180,7 @@ const Home = (props: HomeProps) => {
       {wallet && <p>Total Supply: {itemsAvailable}</p>}
 
       {wallet && <p>Price: 0.14 SOL</p>}
-      {wallet && <p>+fee ~0.005 SOL</p>}
+      {wallet && <p>+fee ~0.01 SOL</p>}
 
       <MintContainer>
         {!wallet ? (
