@@ -180,7 +180,7 @@ const Home = (props: HomeProps) => {
       {wallet && <p>Total Supply: {itemsAvailable}</p>}
 
       {wallet && <p>Minted: {itemsRedeemed}</p>}
-      
+
       {wallet && <p>Remaining: {itemsRemaining}</p>}
 
       <MintContainer>
@@ -198,8 +198,12 @@ const Home = (props: HomeProps) => {
               isMinting ? (
                 <CircularProgress />
               ) : (
-                "MINT HERE"
+                "MINT HERE "
+              )
+              (
                 "Price: 0.14 SOL"
+              )
+              (
                 "+fee ~0.01 SOL"
               )
             ) : (
