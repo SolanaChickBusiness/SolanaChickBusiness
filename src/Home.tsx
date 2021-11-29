@@ -21,11 +21,11 @@ import {
 
 const ConnectButton = styled(WalletDialogButton)``;
 
-const CounterText = styled.span``; // add your styles here
+const CounterText = styled.span``; "1111111111111111111test"
 
-const MintContainer = styled.div``; // add your styles here
+const MintContainer = styled.div``; "22222222222test"
 
-const MintButton = styled(Button)``; // add your styles here
+const MintButton = styled(Button)``; "33333333test"
 
 export interface HomeProps {
   candyMachineId: anchor.web3.PublicKey;
@@ -105,7 +105,7 @@ const Home = (props: HomeProps) => {
         if (!status?.err) {
           setAlertState({
             open: true,
-            message: "Congratulations! Mint succeeded!",
+            message: "Mint succeeded!Check your Chick on Wallet!",
             severity: "success",
           });
         } else {
