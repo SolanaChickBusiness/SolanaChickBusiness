@@ -118,7 +118,7 @@ const Home = (props: HomeProps) => {
       }
     } catch (error: any) {
       // TODO: blech:
-      let message = error.msg || "Minting failed! Please try again!";
+      let message = error.msg || "You canceled Mint.Please try again! ";
       if (!error.msg) {
         if (error.message.indexOf("0x138")) {
         } else if (error.message.indexOf("0x137")) {
