@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SolanaChickBusiness/static/css/main.14897614.chunk.css",
+    "main.css": "/SolanaChickBusiness/static/css/main.9faa6743.chunk.css",
     "main.js": "/SolanaChickBusiness/static/js/main.78a95680.chunk.js",
     "main.js.map": "/SolanaChickBusiness/static/js/main.78a95680.chunk.js.map",
     "runtime-main.js": "/SolanaChickBusiness/static/js/runtime-main.67428eb3.js",
@@ -10,13 +10,13 @@
     "static/js/3.aa78630b.chunk.js": "/SolanaChickBusiness/static/js/3.aa78630b.chunk.js",
     "static/js/3.aa78630b.chunk.js.map": "/SolanaChickBusiness/static/js/3.aa78630b.chunk.js.map",
     "index.html": "/SolanaChickBusiness/index.html",
-    "static/css/main.14897614.chunk.css.map": "/SolanaChickBusiness/static/css/main.14897614.chunk.css.map",
+    "static/css/main.9faa6743.chunk.css.map": "/SolanaChickBusiness/static/css/main.9faa6743.chunk.css.map",
     "static/js/2.4976f564.chunk.js.LICENSE.txt": "/SolanaChickBusiness/static/js/2.4976f564.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.67428eb3.js",
     "static/js/2.4976f564.chunk.js",
-    "static/css/main.14897614.chunk.css",
+    "static/css/main.9faa6743.chunk.css",
     "static/js/main.78a95680.chunk.js"
   ]
 }
