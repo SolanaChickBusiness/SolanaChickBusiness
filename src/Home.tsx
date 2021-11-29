@@ -198,7 +198,7 @@ const Home = (props: HomeProps) => {
               isMinting ? (
                 <CircularProgress />
               ) :(
-                "MINT HERE | PRICE:0.14 SOL | +fee ~0.01 SOL"
+                "MINT HERE | PRICE:0.14 SOL |        +fee ~0.01 SOL"
               )
             ) : (
               <Countdown
