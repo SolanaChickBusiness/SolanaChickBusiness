@@ -197,13 +197,7 @@ const Home = (props: HomeProps) => {
             ) : isActive ? (
               isMinting ? (
                 <CircularProgress />
-              ) : (
-                "MINT HERE "
-              )
-              (
-                "Price: 0.14 SOL"
-              )
-              (
+              ) :(
                 "+fee ~0.01 SOL"
               )
             ) : (
