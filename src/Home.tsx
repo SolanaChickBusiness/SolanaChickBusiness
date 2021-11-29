@@ -21,11 +21,11 @@ import {
 
 const ConnectButton = styled(WalletDialogButton)``;
 
-const CounterText = styled.span``; "1111111111111111111test"
+const CounterText = styled.span``; // add your styles here
 
-const MintContainer = styled.div``; "22222222222test"
+const MintContainer = styled.div``; // add your styles here
 
-const MintButton = styled(Button)``; "33333333test"
+const MintButton = styled(Button)``; // add your styles here
 
 export interface HomeProps {
   candyMachineId: anchor.web3.PublicKey;
@@ -185,7 +185,7 @@ const Home = (props: HomeProps) => {
 
       <MintContainer>
         {!wallet ? (
-          <ConnectButton>Connect Wallet</ConnectButton>
+          <ConnectButton>Connect your Wallet</ConnectButton>
         ) : (
           <MintButton
             disabled={isSoldOut || isMinting || !isActive}
