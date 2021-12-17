@@ -168,7 +168,11 @@ const Home = (props: HomeProps) => {
   return (
     <main>
       <div className='mint-container'>
-      {wallet && <p>Solana Chick Business</p>}
+      {wallet && <p>SOLANA CHICK BUSINESS</p>}
+
+      {wallet && <p>Public Mint Coming Soon!</p>}
+
+      {wallet && <p>_________________________</p>}
 
 
       {wallet && (
