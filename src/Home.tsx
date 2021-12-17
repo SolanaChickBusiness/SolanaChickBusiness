@@ -214,8 +214,6 @@ const Home = (props: HomeProps) => {
       {wallet && <p>Price: 0.14 SOL</p>}
       {wallet && <p>Royalties: 3%</p>}
     
-      <a href="WWW.SOLANACHICK.BUSINESS" target="_blank">Official SCB Website!</a>
-
       {wallet && <p>WWW.SOLANACHICK.BUSINESS</p>}
       <Snackbar
         open={alertState.open}
