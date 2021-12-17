@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/SolanaChickBusiness/static/css/main.4573a75c.chunk.css",
-    "main.js": "/SolanaChickBusiness/static/js/main.d96eccb4.chunk.js",
-    "main.js.map": "/SolanaChickBusiness/static/js/main.d96eccb4.chunk.js.map",
+    "main.js": "/SolanaChickBusiness/static/js/main.2e2f5b8e.chunk.js",
+    "main.js.map": "/SolanaChickBusiness/static/js/main.2e2f5b8e.chunk.js.map",
     "runtime-main.js": "/SolanaChickBusiness/static/js/runtime-main.17fd7d2d.js",
     "runtime-main.js.map": "/SolanaChickBusiness/static/js/runtime-main.17fd7d2d.js.map",
-    "static/js/2.30e25c37.chunk.js": "/SolanaChickBusiness/static/js/2.30e25c37.chunk.js",
-    "static/js/2.30e25c37.chunk.js.map": "/SolanaChickBusiness/static/js/2.30e25c37.chunk.js.map",
+    "static/js/2.3dd5c02d.chunk.js": "/SolanaChickBusiness/static/js/2.3dd5c02d.chunk.js",
+    "static/js/2.3dd5c02d.chunk.js.map": "/SolanaChickBusiness/static/js/2.3dd5c02d.chunk.js.map",
     "static/js/3.2ee2d3e8.chunk.js": "/SolanaChickBusiness/static/js/3.2ee2d3e8.chunk.js",
     "static/js/3.2ee2d3e8.chunk.js.map": "/SolanaChickBusiness/static/js/3.2ee2d3e8.chunk.js.map",
     "index.html": "/SolanaChickBusiness/index.html",
     "static/css/main.4573a75c.chunk.css.map": "/SolanaChickBusiness/static/css/main.4573a75c.chunk.css.map",
-    "static/js/2.30e25c37.chunk.js.LICENSE.txt": "/SolanaChickBusiness/static/js/2.30e25c37.chunk.js.LICENSE.txt"
+    "static/js/2.3dd5c02d.chunk.js.LICENSE.txt": "/SolanaChickBusiness/static/js/2.3dd5c02d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.17fd7d2d.js",
-    "static/js/2.30e25c37.chunk.js",
+    "static/js/2.3dd5c02d.chunk.js",
     "static/css/main.4573a75c.chunk.css",
-    "static/js/main.d96eccb4.chunk.js"
+    "static/js/main.2e2f5b8e.chunk.js"
   ]
 }
