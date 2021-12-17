@@ -173,6 +173,7 @@ const Home = (props: HomeProps) => {
       {wallet && (
         <p>Your Wallet {shortenAddress(wallet.publicKey.toBase58() || "")}</p>
       )}
+      {wallet && <p>⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯</p>}
 
       {wallet && <p>Wallet Balance: {(balance || 0).toLocaleString()} SOL</p>}
 
@@ -210,7 +211,12 @@ const Home = (props: HomeProps) => {
           </MintButton>
         )}
       </MintContainer>
+      {wallet && <p>Price: 0.14 SOL</p>}
+      {wallet && <p>Royalties: 3%</p>}
+    
+      <a href="WWW.SOLANACHICK.BUSINESS" target="_blank">Official SCB Website!</a>
 
+      {wallet && <p>WWW.SOLANACHICK.BUSINESS</p>}
       <Snackbar
         open={alertState.open}
         autoHideDuration={6000}
@@ -237,7 +243,7 @@ interface AlertState {
 const renderCounter = ({ days, hours, minutes, seconds, completed }: any) => {
   return (
     <CounterText>
-      {hours + (days || 0) * 24} hours, {minutes} minutes, {seconds} seconds
+      {days} days, {hours} hours, {minutes} minutes, {seconds} seconds
     </CounterText>
   );
 };
