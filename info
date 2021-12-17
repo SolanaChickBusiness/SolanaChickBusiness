@@ -5,7 +5,7 @@ config":"9jKNhQMLivzht31ucC8Ynz68uSUibo99kwLpKQTnHTin
 pmFPh361rbQiLANocejPiSvQyNtfckrijqQPLw2fDi5
 yarn start
 
-git add .
+git add .    del and TAB! #del from home   git add src/* add all folders
 git commit -am "test"
 git push 
 npm run deploy
