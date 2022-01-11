@@ -1,6 +1,6 @@
 CONFIG
 candyMachineAddress":"GRLu2BECihtWKSjkjd2qM9XRWfXVDftgi1yC17XyVKdS",
-"startDate":1637949300000}
+"startDate":1642096800000}
 config":"9jKNhQMLivzht31ucC8Ynz68uSUibo99kwLpKQTnHTin
 pmFPh361rbQiLANocejPiSvQyNtfckrijqQPLw2fDi5
 yarn start
@@ -10,7 +10,7 @@ git commit -am "test"
 git push 
 npm run deploy
 
-updated startDate timestamp: 1640390446 (25 Dec 2021 00:00:46 GMT)
+updated startDate timestamp: 1642096800 (13 Jan 2022 18:00:00 GMT)
 
 
 
