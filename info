@@ -19,12 +19,9 @@ updated startDate timestamp: 1642096800 (13 Jan 2022 18:00:00 GMT)
 
 
 
-$ npx ts-node js/packages/cli/src/candy-machine-cli.ts update_candy_machine --env mainnet-beta --keypair SCB-mainnet.json --price "0.24" --date "30 Dec 2021 00:00:46 GMT" -r https://nameless-summer-frog.solana-mainnet.quiknode.pro/6db4a195c4e7a2ae27e226fc3c38e159c7c7f3d5/ 
-
+npx ts-node js/packages/cli/src/candy-machine-cli.ts update_candy_machine --env mainnet-beta --keypair SCB-mainnet.json --price "0.24" --date "31 Jan 2022 18:00:00 GMT" -r https://nameless-summer-frog.solana-mainnet.quiknode.pro/6db4a195c4e7a2ae27e226fc3c38e159c7c7f3d5/
 wallet public key: pmFPh361rbQiLANocejPiSvQyNtfckrijqQPLw2fDi5
 USING CUSTOM URL https://nameless-summer-frog.solana-mainnet.quiknode.pro/6db4a195c4e7a2ae27e226fc3c38e159c7c7f3d5/
- - updated startDate timestamp: 1640822446 (30 Dec 2021 00:00:46 GMT)
+ - updated startDate timestamp: 1643652000 (31 Jan 2022 18:00:00 GMT)
  - updated price: 240000000 lamports (0.24 SOL)
-update_candy_machine finished 2Eo5NBuyJdDWNgvjGpoDKfn5nhFWftMG97eZWumBosucaYJxbsRwNMKZRCrz7xRQuCmdNhPrP4ditPvGDqeS71VD
-
-************************************************************************************
+update_candy_machine finished hQVVQ8NcyxSwUwQcrzpUiCCQDxLPyxCmUNPZT5q2PpwRQyrswNVLYeUHK6FiS6GcENtT5bv3r6q76bnf1wd7d19
