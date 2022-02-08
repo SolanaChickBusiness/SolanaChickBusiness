@@ -198,7 +198,7 @@ const Home = (props: HomeProps) => {
               isMinting ? (
                 <CircularProgress />
               ) :(
-                "| MINT HERE | PRICE:0.24 SOL | +fee ~0.01 SOL |"
+                "| MINT HERE | PRICE:0.34 SOL | +fee ~0.01 SOL |"
               )
             ) : (
               <Countdown
@@ -211,7 +211,7 @@ const Home = (props: HomeProps) => {
           </MintButton>
         )}
       </MintContainer>
-      {<p>Price: 0.24 SOL</p>}
+      {<p>Price: 0.34 SOL</p>}
       {<p>Royalties: 3%</p>}
 
       {<p>WWW.SOLANACHICK.BUSINESS</p>}
