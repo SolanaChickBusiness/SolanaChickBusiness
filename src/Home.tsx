@@ -169,7 +169,6 @@ const Home = (props: HomeProps) => {
     <main>
       <div className='mint-container'>
       {<p>Solana Chick Business</p>}
-      {<p>Public Mint coming soon.</p>}
       {wallet && (
         <p>Your Wallet {shortenAddress(wallet.publicKey.toBase58() || "")}</p>
       )}
